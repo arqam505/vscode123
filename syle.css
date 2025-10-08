@@ -124,3 +124,9 @@ select {
   }
 }
 }
+
+body{
+    font-size: var(--fs-700);
+    font-family: var(--ff-body);
+    color: var(--clr-brown-500);
+}
